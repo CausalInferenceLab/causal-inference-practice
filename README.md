@@ -4,18 +4,18 @@
 
 ## 프로젝트 일정
 
-| 순서    | 주제      | 자료 | 완료일 | 작성자                                 |
-| ------- | --------- | ---- | ------ | -------------------------------------- |
-| Week 1  | 스터디 OT |      | 2024   | [김성수](https://github.com/fenzhantw) |
-| Week 2  |           |      |        | TBD                                    |
-| Week 3  |           |      |        |                                        |
-| Week 4  |           |      |        |                                        |
-| Week 5  |           |      |        |                                        |
-| Week 6  |           |      |        |                                        |
-| Week 7  |           |      |        |                                        |
-| Week 8  |           |      |        |                                        |
-| Week 9  |           |      |        |                                        |
-| Week 10 |           |      |        |                                        |
+| 순서    | 주제                      | 자료 | 완료일 | 작성자                                 |
+| ------- | ------------------------- | ---- | ------ | -------------------------------------- |
+| Week 1  | 인과추론 실무 프로젝트 OT |      | TBD    | [김성수](https://github.com/fenzhantw) |
+| Week 2  | 인과추론 Overview         |      | TBD    | [김성수](https://github.com/fenzhantw) |
+| Week 3  |                           |      |        |                                        |
+| Week 4  |                           |      |        |                                        |
+| Week 5  |                           |      |        |                                        |
+| Week 6  |                           |      |        |                                        |
+| Week 7  |                           |      |        |                                        |
+| Week 8  |                           |      |        |                                        |
+| Week 9  |                           |      |        |                                        |
+| Week 10 |                           |      |        |                                        |
 
 - [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io/)
 
