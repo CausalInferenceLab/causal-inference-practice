@@ -8,7 +8,7 @@
 | ------- | ------------------------- | ---- | ------ | -------------------------------------- |
 | Week 1  | 인과추론 실무 프로젝트 OT |      | TBD    | [김성수](https://github.com/fenzhantw) |
 | Week 2  | 인과추론 Overview         |      | TBD    | [김성수](https://github.com/fenzhantw) |
-| Week 3  |                           |      |        |                                        |
+| Week 3  | 인과추론 RCT와 실험플랫폼                          |      |TBD        |[김성수](https://github.com/fenzhantw)                                        |
 | Week 4  |                           |      |        |                                        |
 | Week 5  |                           |      |        |                                        |
 | Week 6  |                           |      |        |                                        |
@@ -16,12 +16,25 @@
 | Week 8  |                           |      |        |                                        |
 | Week 9  |                           |      |        |                                        |
 | Week 10 |                           |      |        |                                        |
+| Week 11 |                           |      |        |                                        |
+| Week 12 |                           |      |        |                                        |
+| Week 13 |                           |      |        |                                        |
+| Week 14 |                           |      |        |                                        |
+| Week 15 |                           |      |        |                                        |
 
 - [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io/)
 
 - [가짜연구소 블로그](https://pseudolab.github.io/)
 
-저장소의 [이슈 페이지를](https://github.com/CausalInferenceLab/causal-inference-practice/issues) 지속적으로 모니터링하고 있습니다.  버그 신고, 질문, 토론 내용을 정리할 예정입니다.
+Repo의 [이슈 페이지](https://github.com/CausalInferenceLab/causal-inference-practice/issues)를 지속적으로 모니터링하고 있습니다.  
+버그, 질문, 토론 내용을 정리할 예정입니다.
+
+## Table of Contents
+
+- 🔬 [발표 자료](https://github.com/CausalInferenceLab/causal-inference-practice/tree/main/Materials)
+- 🎓 [논문 자료](https://github.com/CausalInferenceLab/causal-inference-practice/tree/main/src/papers.md)
+- 🏭 [실무 자료](https://github.com/CausalInferenceLab/causal-inference-practice/tree/main/src/industry-applications.md)
+- 💬 [토론 및 질문](https://github.com/CausalInferenceLab/causal-inference-practice/issues)
 
 ## Authors
 
@@ -30,8 +43,13 @@
 - [김성수](https://github.com/fenzhantw) LG CNS / Enterprise 분석팀 
 - TBD
 - TBD
-
-
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
 
 ## Reference
 
