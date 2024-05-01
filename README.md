@@ -40,16 +40,16 @@ Repo의 [이슈 페이지](https://github.com/CausalInferenceLab/causal-inferenc
 
 가짜 연구소 <인과추론과 실무> 프로젝트 참여자:
 
-- [김성수](https://github.com/fenzhantw) LG CNS
-- [김지연](https://github.com/jiyeon0822) EA Korea
-- [박수영](https://github.com/euphoria0-0) 크립토랩
-- [손영주](https://github.com/nibblepebble) 서울대학교
-- [손지영](https://github.com/soye-jy) 쿠팡
-- 손지우 LG CNS
-- [심소현](https://github.com/sim-so) Imweb
-- 유도영 SK Telecom
-- [이은경](https://github.com/eun-kyoung113) 온택트헬스
-- [최지환](https://github.com/markjihwan) 교보문고
+- [김성수](https://github.com/fenzhantw) 
+- [김지연](https://github.com/jiyeon0822) 
+- [박수영](https://github.com/euphoria0-0) 
+- [손영주](https://github.com/nibblepebble) 
+- [손지영](https://github.com/soye-jy) 
+- 손지우
+- [심소현](https://github.com/sim-so)
+- 유도영
+- [이은경](https://github.com/eun-kyoung113) 
+- [최지환](https://github.com/markjihwan) 
 
 ## Reference
 
