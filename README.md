@@ -6,7 +6,7 @@
 
 | 순서    | 주제                      | 자료 | 완료일 | 작성자                                 |
 | ------- | ------------------------- | ---- | ------ | -------------------------------------- |
-| Week 1  | 인과추론 실무 프로젝트 OT |      | TBD    | [김성수](https://github.com/fenzhantw) |
+| Week 1  | 인과추론 실무 프로젝트 OT |  [링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week01_OT.pdf)    | 2024.05.09    | [김성수](https://github.com/fenzhantw) |
 | Week 2  | 인과추론 Overview         |      | TBD    | [김성수](https://github.com/fenzhantw) |
 | Week 3  | 인과추론 RCT와 실험플랫폼                          |      |TBD        |[김성수](https://github.com/fenzhantw)                                        |
 | Week 4  |                           |      |        |                                        |
