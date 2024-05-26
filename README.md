@@ -8,7 +8,7 @@
 | ------- | ------------------------- | ---- | ------ | -------------------------------------- |
 | Week 1  | 인과추론 실무 프로젝트 OT |  [링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week01_OT.pdf)    | 2024.05.09    | [김성수](https://github.com/fenzhantw) |
 | Week 2  | 인과추론 Overview         | [링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week02_Causal_inference_overview.pdf)     | 2024.05.16    | [김성수](https://github.com/fenzhantw) |
-| Week 3  | 인과추론 세미나: 인과추론으로 네트워킹하기                          |      |2024.05.25        |[김성수](https://github.com/fenzhantw)                                        |
+| Week 3  | 인과추론 세미나: 인과추론으로 네트워킹하기                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week03_Causal_inference_seiminar.pdf)      |2024.05.25        |[김성수](https://github.com/fenzhantw)                                        |
 | Week 4  | 인과추론 RCT와 실험플랫폼                          | |2024.05.28     |[김성수](https://github.com/fenzhantw)                                        |
 | Week 5  |                           |      |        |                                        |
 | Week 6  |                           |      |        |                                        |
