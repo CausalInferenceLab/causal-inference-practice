@@ -12,7 +12,7 @@
 | Week 4  | 인과추론 RCT와 실험플랫폼 Part 1                         |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week04_05_RCT_experiment_platform.pdf) |2024.05.28     |[김성수](https://github.com/fenzhantw)                                        |
 | Week 5  | 인과추론 RCT와 실험플랫폼 Part 2                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week04_05_RCT_experiment_platform.pdf)       |2024.06.04        |[김성수](https://github.com/fenzhantw)                                        |
 | Week 6  | 인과 그래프 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week06_Graphical_causal_model.pdf)      |2024.06.11        |[심소현](https://github.com/sim-so)                                        |
-| Week 7  | 성향 점수 with Industry Case                          |      |        |[손지우](github.com/bungaedm)                                        |
+| Week 7  | 성향 점수 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week7_Propensity_score.pdf)      |2024.06.18        |[손지우](github.com/bungaedm)                                        |
 | Week 8  | 이질적 처치효과와 메타러너 with Industry Case                          |      |      |[이은경](https://github.com/eun-kyoung113)                                          |
 | Week 9  |                           |      |        |                                        |
 | Week 10 |                           |      |        |                                        |
