@@ -14,8 +14,8 @@
 | Week 6  | 인과 그래프 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week06_Graphical_causal_model.pdf)      |2024.06.11        |[심소현](https://github.com/sim-so)                                        |
 | Week 7  | 성향 점수 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week7_Propensity_score.pdf)      |2024.06.18        |[손지우](github.com/bungaedm)                                        |
 | Week 8  | 이질적 처치효과와 메타러너 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week8_%EC%9D%B4%EC%A7%88%EC%A0%81_%EC%B2%98%EC%B9%98%ED%9A%A8%EA%B3%BC%EC%99%80_%EB%A9%94%ED%83%80%EB%9F%AC%EB%84%88.pdf)      |2024.06.25      |[이은경](https://github.com/eun-kyoung113)                                          |
-| Week 9  |                           |      |        |                                        |
-| Week 10 |                           |      |        |                                        |
+| Week 9  | 이중차분법 with Industry Case                        |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week09_DID.pdf)      |2024.07.09        |[김지연](https://github.com/jiyeon0822)                                        |
+| Week 10 | 통제집단 합성법 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week10_Synthetic.pdf)      |2024.07.16        |[손지영](https://github.com/soye-jy)                                        |
 | Week 11 |                           |      |        |                                        |
 | Week 12 |                           |      |        |                                        |
 | Week 13 |                           |      |        |                                        |
