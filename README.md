@@ -19,8 +19,8 @@
 | Week 11 | 스위치백 with Industry Case                         |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week11_Switchback.pdf)      |2024.07.23        |[최지환](https://github.com/markjihwan)                                        |
 | Week 12 | 불응과 도구변수 with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week12_%EB%B6%88%EC%9D%91%EA%B3%BC%EB%8F%84%EA%B5%AC%EB%B3%80%EC%88%98.pdf)      |2024.07.30        |[유도영](https://github.com/nachoryu)                                        |
 | Week 13 | Causal Discovery with Industry Case                         |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week13_Causal%20Discovery%20with%20Industrial%20Case_v2.pdf)      |2024.08.06        |[박수영](https://github.com/euphoria0-0)                                        |
-| Week 14 | RDD with Industry Case                          |     |2024.08.13        |[손영주](https://github.com/nibblepebble)                                       |
-| Week 15 | 마무리                          |      |        |                                        |
+| Week 14 | RDD with Industry Case                          |[링크](https://github.com/CausalInferenceLab/causal-inference-practice/blob/main/Materials/Week14_RDD.pdf)     |2024.08.13        |[손영주](https://github.com/nibblepebble)                                       |
+
 
 - [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io/)
 
